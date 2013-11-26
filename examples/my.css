@@ -1,0 +1,69 @@
+#orange-border{
+  width: 480px;
+  margin-bottom: 15px;
+}
+#orange_border_row{
+  height: 20px;
+}
+#orange-border td{
+  border-bottom: solid 1px #ff9933;
+}
+#orange-button td{
+  display: block
+}
+#orange-button a{
+  background: url('https://raw.github.com/Nimdis/ink_design2/master/button.png') no-repeat -7px -12px;
+  padding: 0px 125px 10px 0px;
+}
+#orange-button a:hover{
+  background-position: -144px -12px;
+}
+.middle{
+  background: #cdcdcd;
+}
+h3{
+  font-size: 18px;
+}
+#main{
+  margin-bottom: 20px;
+  min-height: 270px;
+}
+.wrapper {
+  padding-bottom: 20px;
+}
+
+table.columns .text-pad {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+table.columns .right-text-pad {
+  padding-right: 10px;
+}
+.content_row{
+  width: 480px !important;
+}
+.line_height{
+  height: 19px;
+  padding-bottom: 0px !important;
+
+}
+#title{
+  padding-top: 15px;
+  height: 18px;
+}
+#right_content{
+  font-size: 12px;
+  padding-left: 10px;
+}
+#time{
+  color: #9a9a9a;
+}
+#middle{
+  min-height: 270px;
+  background: #fff;
+  margin: 20px 30px 10px 30px;
+}
+.custom_column_width{
+  width: 520px !important;
+}
